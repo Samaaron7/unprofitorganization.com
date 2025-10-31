@@ -44,7 +44,7 @@ export default function ShareAPairUSA() {
             }}
           >
             <img
-             src="company_logo2.png"
+             src="./src/company_logo2.png"
              alt="ShareAPairUSA Logo"
              className="w-16 h-16 object-contain rounded-2xl"/>
 
